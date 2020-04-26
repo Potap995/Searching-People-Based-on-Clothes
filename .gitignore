@@ -1,0 +1,8 @@
+/.idea
+/docs_docs
+/documents/index.pdf
+*.t7
+*.pt
+*.mp4
+/code/data/tracks/*.txt
+/code/data/clothes/*.txt
